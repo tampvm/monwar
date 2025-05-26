@@ -1,0 +1,2767 @@
+fileFormatVersion: 2
+guid: e95fcc0cfd4e7ac4eba612494ee7567d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968500ce7fa7ef34fbf29b0a13ad9adb
+      internalID: 1946770672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a4f88b8ba5bac40afd7a9cf90348a2
+      internalID: 1225479979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c451fc2ea85031a45b0492f03419f789
+      internalID: 758282540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cc9c4e271099942bfc515d886b4caa
+      internalID: 1762165346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c15ccd20733645bfd65768d2f07b3
+      internalID: 1254495596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b457d049adc0b428690be7fac35b3e
+      internalID: 1125150754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a3428e3f44044ca859efc0c24c2b3
+      internalID: -1221199919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693cc75663da8b94b9c865401af7822d
+      internalID: 552540374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b600aba7dfdc4f9cd5ba5fc8989ae
+      internalID: 1345329982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4f2240371d47f4eb1228f53123ff9f
+      internalID: 833808495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799f0c6069121d04f9fa1961d8b1cfbd
+      internalID: 258771011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ff0b02e5ed6774fa539b42dcdb1ec2
+      internalID: -673102842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd7d24aa166644e98c097ab5162891
+      internalID: -1548276331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b41b41778359f43abf45bb431b5a6b
+      internalID: -1896363116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 744
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c0b60ee518f04686abab4c1258cdf
+      internalID: -1146077676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae3dfabc2d7b6f4d8c0badd3c3cbd6e
+      internalID: -74234921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b6757cd3adab1479b8f3076f12cb29
+      internalID: -342110882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a671461199c3841b6f7256dfbb9beb
+      internalID: -1453915516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678cf1e9d90243499cc7ff3a91bb3ce
+      internalID: 1201373749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2f1d31d304fbe499efee9d9f265471
+      internalID: 1301953144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef837572eef16514d95bf7b4413e6768
+      internalID: -1399589403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ad9a9dfdb9c94687774f066604a02
+      internalID: -1262468133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21248499924fef428363f4dc6700eb5
+      internalID: 69097312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b55f3f30ef524c8ddb197ecae6e4f
+      internalID: 568561329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20c44d930753f4395a4611737d5527
+      internalID: -1667319091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a04a7fea787941a6c892b09513725
+      internalID: -1029283321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0146f946c523d47af495b5a4b6d2b9
+      internalID: 810810618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25ef94aa04e064a9a96470a1f0ba61
+      internalID: -1188571969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_28
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788104fb860eea419db32a313be963b
+      internalID: -968938940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 644
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77d15eeeaeb3fc4399bad6d265e13ce
+      internalID: -1149161792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb773c7d180a84c908882325513206
+      internalID: -761936054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4b40cf0e6c9c4491c3f5f956495a6
+      internalID: 1751155939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778a986c151d304691bea3d30f802bf
+      internalID: 1785207124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c21665918a7a4ea0729b5bfe8fab0
+      internalID: 643112858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a087bbd6a38b44b900b9cc44e8a04
+      internalID: 230131446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c89868bec4b640b9ab3df6ffb84ee
+      internalID: 1166646045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f029b0c5aef61499d592a2a70573b9
+      internalID: 774554833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b334bd3746424cb7fc5160a0752a4
+      internalID: 2056239897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682f8bfc61f1d994f9815a96a0f9bd01
+      internalID: 980470961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6413e52575d04fa5178a8f88c1e2d
+      internalID: 854447976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_40
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec6e3a1a3d69a45b46a565865ae6c5
+      internalID: 505917636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_41
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd0486c9f57d741a94bda1663e591e
+      internalID: -367936337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014478fb5ee8944aa774c0db288a4dd
+      internalID: -1143527886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_43
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fedc1c1a5b32742955c14b67c2d645
+      internalID: -136167422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 544
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc16f2293390bb4980c72af9d20d0a3
+      internalID: 1920253410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99a61f9e3a5b348a22c38551073e97
+      internalID: 1372098715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa96e55ebe88444951baf72388831a
+      internalID: 1793652591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbde939099772a46a456584cf288f2f
+      internalID: -366616985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6261e5f8f69376a4c80777f8546fe82a
+      internalID: 398081864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da3aac1cdb2e94f92be06d739a10df
+      internalID: -1246915823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f6aa5541265d40a08da124d05745b
+      internalID: 1615179734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1389754a59ca714b91d43e90af46eb0
+      internalID: -921750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa5b67925e369746be4d860f61f1ae6
+      internalID: 1153656112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78263514f131d694188dca50522b3a29
+      internalID: -1750936876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd03edb85a847a4cb5be49f990d6053
+      internalID: 807598953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19233a07c548574f8c33a310a4051fb
+      internalID: -1815475531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_56
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df67998a103fce4999eaa5d3aaa79de
+      internalID: -925887107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_57
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad3f1c362e8175458ebbf7f26d569bc
+      internalID: -654477340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_58
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e40d5485d48e640bb1473c895c96de
+      internalID: 465142162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 444
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35046c8d2027e49b7c534bef75d08f
+      internalID: -1344001302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c6b9c5290c144ea9c698c2c4d6a14
+      internalID: -36928041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad4a34177f0274d8354a746b482071
+      internalID: 1454509115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806c37bea37dbb4f8f07fff24518269
+      internalID: -1121079301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbff2486adc332469e032af78839067
+      internalID: 617958601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c992c1478cb96534983c954cd35b627f
+      internalID: -949890556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844edfabd0e11a141a29b642c09c6d60
+      internalID: -1015149492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9e405bca95004db7899362e159bbf
+      internalID: 626603188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fced83e76423ed408aa21d85a443dda
+      internalID: -1679419228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35a8c64ac3d9742b20d4340ee9c92f
+      internalID: 1441903035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505970cebdbf0044b2d28bb8e3a3ade
+      internalID: 57162533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_70
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aed2263ec5accc4fbd2ccfc68e7313b
+      internalID: 2096817177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_71
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5960c76f6cf5c846b266f2b5c961b64
+      internalID: 1962903053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83678b0825964469b57c47f6aae7f9
+      internalID: -808241175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f8339199184a498ffd492e51f4888
+      internalID: -1824759277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 344
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc75e524655aa064eab2c5150bbe2a6c
+      internalID: 529142239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeef226d5436304a9e1f23b301964d3
+      internalID: -1681645084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39fe699bc26c54485fbfe25ffa8b5b
+      internalID: -326479698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abff8f7842b4c41b62d01db3bf7623
+      internalID: 1744852624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_78
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea82d27e7475f0429fa97666657213d
+      internalID: 723556104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93e806a275bc94c8843abad431ee6c
+      internalID: 549192867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_80
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a950eeb0dc7845bb25d01669ad436
+      internalID: -62693562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e14793dad0772428f8a8e850c5fb6f
+      internalID: 1661338984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_82
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce739f9a07d7b246b3efda5cac66ed7
+      internalID: -1666461495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aced749f025d44faae390f189d0158
+      internalID: 1176071469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_84
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a309402a073cb4ea8e1c679d9d7c8a
+      internalID: -884433670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_85
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c49475959a7a4b428cd9eb33795c619
+      internalID: -682732604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_86
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199456c368b79447a3f90f6fadb8714
+      internalID: 81903299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_87
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501b05cbc635724699d31035258e800
+      internalID: 1254494223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_88
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e265a8f7a83c49ac5b1c7acf3444f
+      internalID: -2011144213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_89
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 244
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9036db62c2597244912f3cc6b8adcd4
+      internalID: 1378923327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5955776c6cc6ba744a87a27f3ce7a04f
+      internalID: 197290176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9706fc96911d4bae6f48d2f6d77f2
+      internalID: 1200946528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd83cc79bd0fe4696ec09304bb597b
+      internalID: -1141162889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d704454d727f894781c40e88a065dcb
+      internalID: 1971242171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb3a12eb95c5a4996441c859164441
+      internalID: -1777733659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508beb1b3c53374292562e9f9e5b26d
+      internalID: -785052589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24eb94d4f0d45d4c9c3d650f004188e
+      internalID: 1964179297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da606557dd2b974988781a108a41cf4
+      internalID: 1263845077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c501317d28ced4cad6973c4e747ad9
+      internalID: -1262925057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95f5a4fe92add4da8baa631cdbaca5
+      internalID: -1533102854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_100
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7bb67b7694eb54f8ae211f42287ccc
+      internalID: -437270111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_101
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d6b655e0909248b8fae7b92a92c18
+      internalID: -1548833624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_102
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27304a06a26e13f41b880483ad653bab
+      internalID: -1113401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_103
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d85dad6ef7f5f445948838939a3f15c
+      internalID: -2128181465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_104
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 144
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1076f45fc190bfe4db2256a1e186852f
+      internalID: 286082046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d479001cf7af047963b5b073fca148
+      internalID: 963968948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba17694f58f124293193c56fb1800f
+      internalID: -1772638277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_107
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475fe05d6a2a8242b76a0d5a52e5984
+      internalID: -630586318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f6d8e55699edb4a8af7496a8266ef3
+      internalID: 2122951078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7093c041c9e724aa35a39d84d55574
+      internalID: -1613274264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf788dbadf81e2e41ba105b4eb6e6e68
+      internalID: -1564537519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1893537cd5d45c4faf3b112db8e0fd8
+      internalID: 1415618552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_112
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637ca2906fc4804686cdc053786fe73
+      internalID: -675137723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_113
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a918500ec07856448d2a5b924f3195d
+      internalID: -305102363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_114
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36da069f3e59543b7b853d7616e792
+      internalID: -1235725638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_115
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb680f8e5aedf45b62bb8d7b7d5eb0
+      internalID: -1884226898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_116
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5372d3addcb94395f4aec9818969b
+      internalID: 540124583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_117
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0cd3f5c13a4e145ac35fdaf71ff773
+      internalID: 2127677517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_118
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17104e79258758a4bb83584a48e40932
+      internalID: 2108321084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anh-nen-Genshin-Impact-2.7_119
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 44
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66839412f6fb0d408513b4c00ce9ddd
+      internalID: 929445252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Anh-nen-Genshin-Impact-2.7_0: 1946770672
+      Anh-nen-Genshin-Impact-2.7_1: 1225479979
+      Anh-nen-Genshin-Impact-2.7_10: 258771011
+      Anh-nen-Genshin-Impact-2.7_100: -437270111
+      Anh-nen-Genshin-Impact-2.7_101: -1548833624
+      Anh-nen-Genshin-Impact-2.7_102: -1113401
+      Anh-nen-Genshin-Impact-2.7_103: -2128181465
+      Anh-nen-Genshin-Impact-2.7_104: 286082046
+      Anh-nen-Genshin-Impact-2.7_105: 963968948
+      Anh-nen-Genshin-Impact-2.7_106: -1772638277
+      Anh-nen-Genshin-Impact-2.7_107: -630586318
+      Anh-nen-Genshin-Impact-2.7_108: 2122951078
+      Anh-nen-Genshin-Impact-2.7_109: -1613274264
+      Anh-nen-Genshin-Impact-2.7_11: -673102842
+      Anh-nen-Genshin-Impact-2.7_110: -1564537519
+      Anh-nen-Genshin-Impact-2.7_111: 1415618552
+      Anh-nen-Genshin-Impact-2.7_112: -675137723
+      Anh-nen-Genshin-Impact-2.7_113: -305102363
+      Anh-nen-Genshin-Impact-2.7_114: -1235725638
+      Anh-nen-Genshin-Impact-2.7_115: -1884226898
+      Anh-nen-Genshin-Impact-2.7_116: 540124583
+      Anh-nen-Genshin-Impact-2.7_117: 2127677517
+      Anh-nen-Genshin-Impact-2.7_118: 2108321084
+      Anh-nen-Genshin-Impact-2.7_119: 929445252
+      Anh-nen-Genshin-Impact-2.7_12: -1548276331
+      Anh-nen-Genshin-Impact-2.7_13: -1896363116
+      Anh-nen-Genshin-Impact-2.7_14: -1146077676
+      Anh-nen-Genshin-Impact-2.7_15: -74234921
+      Anh-nen-Genshin-Impact-2.7_16: -342110882
+      Anh-nen-Genshin-Impact-2.7_17: -1453915516
+      Anh-nen-Genshin-Impact-2.7_18: 1201373749
+      Anh-nen-Genshin-Impact-2.7_19: 1301953144
+      Anh-nen-Genshin-Impact-2.7_2: 758282540
+      Anh-nen-Genshin-Impact-2.7_20: -1399589403
+      Anh-nen-Genshin-Impact-2.7_21: -1262468133
+      Anh-nen-Genshin-Impact-2.7_22: 69097312
+      Anh-nen-Genshin-Impact-2.7_23: 568561329
+      Anh-nen-Genshin-Impact-2.7_24: -1667319091
+      Anh-nen-Genshin-Impact-2.7_25: -1029283321
+      Anh-nen-Genshin-Impact-2.7_26: 810810618
+      Anh-nen-Genshin-Impact-2.7_27: -1188571969
+      Anh-nen-Genshin-Impact-2.7_28: -968938940
+      Anh-nen-Genshin-Impact-2.7_29: -1149161792
+      Anh-nen-Genshin-Impact-2.7_3: 1762165346
+      Anh-nen-Genshin-Impact-2.7_30: -761936054
+      Anh-nen-Genshin-Impact-2.7_31: 1751155939
+      Anh-nen-Genshin-Impact-2.7_32: 1785207124
+      Anh-nen-Genshin-Impact-2.7_33: 643112858
+      Anh-nen-Genshin-Impact-2.7_34: 230131446
+      Anh-nen-Genshin-Impact-2.7_35: 1166646045
+      Anh-nen-Genshin-Impact-2.7_36: 774554833
+      Anh-nen-Genshin-Impact-2.7_37: 2056239897
+      Anh-nen-Genshin-Impact-2.7_38: 980470961
+      Anh-nen-Genshin-Impact-2.7_39: 854447976
+      Anh-nen-Genshin-Impact-2.7_4: 1254495596
+      Anh-nen-Genshin-Impact-2.7_40: 505917636
+      Anh-nen-Genshin-Impact-2.7_41: -367936337
+      Anh-nen-Genshin-Impact-2.7_42: -1143527886
+      Anh-nen-Genshin-Impact-2.7_43: -136167422
+      Anh-nen-Genshin-Impact-2.7_44: 1920253410
+      Anh-nen-Genshin-Impact-2.7_45: 1372098715
+      Anh-nen-Genshin-Impact-2.7_46: 1793652591
+      Anh-nen-Genshin-Impact-2.7_47: -366616985
+      Anh-nen-Genshin-Impact-2.7_48: 398081864
+      Anh-nen-Genshin-Impact-2.7_49: -1246915823
+      Anh-nen-Genshin-Impact-2.7_5: 1125150754
+      Anh-nen-Genshin-Impact-2.7_50: 1615179734
+      Anh-nen-Genshin-Impact-2.7_51: -921750410
+      Anh-nen-Genshin-Impact-2.7_52: 1153656112
+      Anh-nen-Genshin-Impact-2.7_53: -1750936876
+      Anh-nen-Genshin-Impact-2.7_54: 807598953
+      Anh-nen-Genshin-Impact-2.7_55: -1815475531
+      Anh-nen-Genshin-Impact-2.7_56: -925887107
+      Anh-nen-Genshin-Impact-2.7_57: -654477340
+      Anh-nen-Genshin-Impact-2.7_58: 465142162
+      Anh-nen-Genshin-Impact-2.7_59: -1344001302
+      Anh-nen-Genshin-Impact-2.7_6: -1221199919
+      Anh-nen-Genshin-Impact-2.7_60: -36928041
+      Anh-nen-Genshin-Impact-2.7_61: 1454509115
+      Anh-nen-Genshin-Impact-2.7_62: -1121079301
+      Anh-nen-Genshin-Impact-2.7_63: 617958601
+      Anh-nen-Genshin-Impact-2.7_64: -949890556
+      Anh-nen-Genshin-Impact-2.7_65: -1015149492
+      Anh-nen-Genshin-Impact-2.7_66: 626603188
+      Anh-nen-Genshin-Impact-2.7_67: -1679419228
+      Anh-nen-Genshin-Impact-2.7_68: 1441903035
+      Anh-nen-Genshin-Impact-2.7_69: 57162533
+      Anh-nen-Genshin-Impact-2.7_7: 552540374
+      Anh-nen-Genshin-Impact-2.7_70: 2096817177
+      Anh-nen-Genshin-Impact-2.7_71: 1962903053
+      Anh-nen-Genshin-Impact-2.7_72: -808241175
+      Anh-nen-Genshin-Impact-2.7_73: -1824759277
+      Anh-nen-Genshin-Impact-2.7_74: 529142239
+      Anh-nen-Genshin-Impact-2.7_75: -1681645084
+      Anh-nen-Genshin-Impact-2.7_76: -326479698
+      Anh-nen-Genshin-Impact-2.7_77: 1744852624
+      Anh-nen-Genshin-Impact-2.7_78: 723556104
+      Anh-nen-Genshin-Impact-2.7_79: 549192867
+      Anh-nen-Genshin-Impact-2.7_8: 1345329982
+      Anh-nen-Genshin-Impact-2.7_80: -62693562
+      Anh-nen-Genshin-Impact-2.7_81: 1661338984
+      Anh-nen-Genshin-Impact-2.7_82: -1666461495
+      Anh-nen-Genshin-Impact-2.7_83: 1176071469
+      Anh-nen-Genshin-Impact-2.7_84: -884433670
+      Anh-nen-Genshin-Impact-2.7_85: -682732604
+      Anh-nen-Genshin-Impact-2.7_86: 81903299
+      Anh-nen-Genshin-Impact-2.7_87: 1254494223
+      Anh-nen-Genshin-Impact-2.7_88: -2011144213
+      Anh-nen-Genshin-Impact-2.7_89: 1378923327
+      Anh-nen-Genshin-Impact-2.7_9: 833808495
+      Anh-nen-Genshin-Impact-2.7_90: 197290176
+      Anh-nen-Genshin-Impact-2.7_91: 1200946528
+      Anh-nen-Genshin-Impact-2.7_92: -1141162889
+      Anh-nen-Genshin-Impact-2.7_93: 1971242171
+      Anh-nen-Genshin-Impact-2.7_94: -1777733659
+      Anh-nen-Genshin-Impact-2.7_95: -785052589
+      Anh-nen-Genshin-Impact-2.7_96: 1964179297
+      Anh-nen-Genshin-Impact-2.7_97: 1263845077
+      Anh-nen-Genshin-Impact-2.7_98: -1262925057
+      Anh-nen-Genshin-Impact-2.7_99: -1533102854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
